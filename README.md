@@ -5,3 +5,6 @@ The user will first type in or paste training text with some words prefixed with
 
 #### For detailed task description refer Task Description.docx file
 
+For the task, I have used Google news word embeddings. After trial and error, I found that using 125k words from the original embeddngs are sufficient for this task.
+
+Further, I was asked to use functional programming for this task. Hence first time ever, I tried using functional programming.
